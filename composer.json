@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4":{
+            "Givepulse\\Models\\":  "Models",
+            "Givepulse\\Controllers\\":  "Controllers",
+            "Givepulse\\Helpers\\":  "Helpers"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
